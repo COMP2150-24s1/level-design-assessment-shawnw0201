@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
+![acid](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/7a8c12e1-9c83-4580-a194-30fb4e4cf3ee)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
 ### Name: [SHAWN WANG]
 ### Student number: [45416184] 
@@ -129,6 +129,8 @@ Acid is introduced in the first stage of the level and is reintroduced to overla
 
 ```
 ![Obstacles: Acid](DocImages/acid.png)
+![Obstacles: Acid](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/888a4838-5d6d-46f7-b080-6998f6ac2134)
+
 ```
 
 ### 2.2. Checkpoints
@@ -221,6 +223,8 @@ The staff is provided at the start of the second stage of the game to introduce 
 ```
 
 ## 3. Spatiotemporal Design
+
+Please note that although the files may not be correctly linked, they are all located in DocImages.
  
 ### 3.1. Molecule Diagram
 
@@ -276,6 +280,9 @@ The staff is provided at the start of the second stage of the game to introduce 
 ```
 ![Stage level 2 Potential Player Path, Lower Region: Spike Collision](DocImages/Stage2Low4.png)
 ```
+
+
+### 3.4.	Level Map – Section 3
 ```
 ![Stage level 3 Intended Player Path](DocImages/Stage3.1.png)
 ```
@@ -294,7 +301,6 @@ The staff is provided at the start of the second stage of the game to introduce 
 ```
 ![Stage level 3 Potential Player Path: Spike Collision](DocImages/Stage3.6.png)
 ```
-### 3.4.	Level Map – Section 3
 
 ## 4. Iterative Design
 
