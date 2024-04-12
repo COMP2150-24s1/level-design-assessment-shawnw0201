@@ -129,7 +129,7 @@ Acid is introduced in the first stage of the level and is reintroduced to overla
 
 
 
-![Obstacles: Acid](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/7a8c12e1-9c83-4580-a194-30fb4e4cf3ee)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
+![Obstacles: Acid](DocImages/acid.png)
 
 
 
