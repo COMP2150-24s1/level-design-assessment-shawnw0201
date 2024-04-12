@@ -1,4 +1,4 @@
-![acid](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/7a8c12e1-9c83-4580-a194-30fb4e4cf3ee)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
+
 # COMP2150  - Level Design Document
 ### Name: [SHAWN WANG]
 ### Student number: [45416184] 
@@ -128,8 +128,8 @@ To learn the game's elements and core mechanics, the player is set to experience
 Acid is introduced in the first stage of the level and is reintroduced to overlap with other mechanics to provide extra challenge to drive a higher level tension when progressing to the final stages of the level. They serve as a consequence should the player miss a landing point on a floating or moving platform to steer the player into adopting to the limits of their movement.
 
 ```
-![Obstacles: Acid](DocImages/acid.png)
-![Obstacles: Acid](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/888a4838-5d6d-46f7-b080-6998f6ac2134)
+
+![Obstacles: Acid](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/7a8c12e1-9c83-4580-a194-30fb4e4cf3ee)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 
 ```
 
@@ -139,6 +139,8 @@ Checkpoints serve as moments of relief after overcoming a certain amount of diff
 
 ```
 ![Interactables: Checkpoints](DocImages/checkpoint.png)
+![checkpoint](https://github.com/COMP2150-24s1/level-design-assessment-shawnw0201/assets/53806586/95883038-d2bb-4188-9751-bc98c137b7b1)
+
 ```
 
 ### 2.3. Chompers
