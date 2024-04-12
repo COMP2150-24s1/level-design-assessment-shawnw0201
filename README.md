@@ -19,9 +19,7 @@ This targets the design principles of an experience driven design by making move
 
 The spike asset also tests the player's ability to conduct basic movement and teaches them to crouch by limiting their movement if they do not wish to lose a health point.
 
-```
-[This is the alt text for an image!](DocImages/exampleimage.png)
-```
+
 
 ```
 ![Obstacle Example](DocImages/targetedmechanicsjumping.png)
