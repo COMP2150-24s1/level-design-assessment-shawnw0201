@@ -20,7 +20,7 @@ This targets the design principles of an experience driven design by making move
 The spike asset also tests the player's ability to conduct basic movement and teaches them to crouch by limiting their movement if they do not wish to lose a health point.
 
 ```
-![Obstacle Example](DocImages/targetedmechanicsjumping>)
+![Obstacle Example](DocImages/targetedmechanicsjumping.png>)
 ```
 
 
@@ -29,7 +29,7 @@ Health:
 The player is introduced to obstacles that provide the opportunity for the player to become aware of their health within the early stages of the game. The entire first stage of the level is held above an acid pool which means that if a player were to miss the collider of a platform they will fall into the acid resetting their position to the starting point of the game and losing a point of health. A health pickup is provided to the player if they succeed in overcoming the ledges and progress through the first stage of the game.
 
 ```
-![Health Pickup Example](DocImages/healthpickupearly>)
+![Health Pickup Example](DocImages/healthpickupearly.png>)
 ```
 
 
@@ -38,7 +38,7 @@ Keys/Inventory:
 After learning the basic mechanics of the game the player is encouraged to explore the area by traversing to areas that seem reachable by movement. This experience targets a player driven design as no matter which path the player takes they will end up progressing through the level. They may choose to push on forward to another jumping obstacle or use the movement platform to discover a lower region of the level. Each of these paths rewards the player with a key/health pick ups that the player collects to help complete the level by overcoming obstacles such as enemy entities and/or environmental obstacles such as spikes acid and passthrough platforms. This makes the player aware that by traversing the level and exploring that they are rewarded with certain items and will encourage further exploration to seek out their goals whether it be more health pickups or keys to progress and complete the level.
 
 ```
-![Key Example](DocImages/key2>)
+![Key Example](DocImages/key2.png>)
 ```
 
 Attacking:
@@ -46,14 +46,14 @@ Attacking:
 After completing the first stage of the game the player has now had the opportunity to practice their first learned skillset of mobility. To not overwhlem the player with too many mechanics they are spread out through separate stages of the game. They are now introduced to attacking as they approach enemies as a new obstacle to overcome. The player will pick up a staff and will be limited to clearing enemies to progress throughout the level. Here, the player is given a lot of free space to move around to space themselves between the chompers to familiarise themselves with the spacing needed to successfully hit an enemy and clear them.
 
 ```
-![First Chomper Encounter](DocImages/chompers>)
+![First Chomper Encounter](DocImages/chompers.png>)
 ```
 
 
 In the lower region of the level the player is provided with a gun fairly early so that the player has freedom in adopting an attacking method that they prefer for most of the level. The player is presented with an opportunity to use the gun on the spitter on top of a moving platform which at some points may be unreachable by the player. Through trial and error the player will learn to recall of the crouching mechanic as the gun shoots too high to reach the spitter.
 
 ```
-![First Chomper Spitter](DocImages/spitters>)
+![First Chomper Spitter](DocImages/spitters.png>)
 ```
 
 Obstacles:
@@ -112,7 +112,7 @@ In the lower region of the game the player is put through the challenge of trave
 The final stage of the game challenges overlapping mechanics of the game through obstacles and enemies. Since these elements are combined it will prove to be the most challenging stage of the game as the player is reaching the completion of the game. By incrementing difficulty in stages the player can expect that they are given indirect feedback that they are reaching further stages of the game, keeping an intuitive flow throughout the game.
 
 ```
-![Stage 3](DocImages/finalstage>)
+![Stage 3](DocImages/finalstage.png>)
 ```
 
 ### 1.4. Exploration
@@ -126,7 +126,7 @@ To learn the game's elements and core mechanics, the player is set to experience
 Acid is introduced in the first stage of the level and is reintroduced to overlap with other mechanics to provide extra challenge to drive a higher level tension when progressing to the final stages of the level. They serve as a consequence should the player miss a landing point on a floating or moving platform to steer the player into adopting to the limits of their movement.
 
 ```
-![Obstacles: Acid](DocImages/acid>)
+![Obstacles: Acid](DocImages/acid.png>)
 ```
 
 ### 2.2. Checkpoints
@@ -134,7 +134,7 @@ Acid is introduced in the first stage of the level and is reintroduced to overla
 Checkpoints serve as moments of relief after overcoming a certain amount of difficulties so that the player would not have to experience the same complications over and over again while progressing through the level. They are provided to the player after overcoming the first stage round of obstacles and signify the completion of the stage.
 
 ```
-![Interactables: Checkpoints](DocImages/checkpoint>)
+![Interactables: Checkpoints](DocImages/checkpoint.png>)
 ```
 
 ### 2.3. Chompers
@@ -142,7 +142,7 @@ Checkpoints serve as moments of relief after overcoming a certain amount of diff
 Chompers are introduced after the player has familiarised themselves to their movement mechanics. No obstacles are provided in the first section of the second stage to ease the player into learning a new mechanic.
 
 ```
-![Enemy: Chompers](DocImages/chompers>)
+![Enemy: Chompers](DocImages/chompers.png>)
 ```
 
 ### 2.4. Health Pickups
@@ -150,7 +150,7 @@ Chompers are introduced after the player has familiarised themselves to their mo
 Health pickups are provided to relieve tension in early stages of the game while players immerse themselves in learning movement. They provide a safety net to test the limitations of player movement as they are challenged with simple obstacles.
 
 ```
-![Interactables](DocImages/Health>)
+![Interactables](DocImages/Health.png>)
 ```
 
 ### 2.5. Keys
@@ -158,16 +158,16 @@ Health pickups are provided to relieve tension in early stages of the game while
 Keys are rewarded after overcoming a series of enemies/obstacles. They are rewarded after the player has taken the librety to explore the stage triggering their sense to explore.
 
 ```
-![Inventory: Key 1](DocImages/key>)
+![Inventory: Key 1](DocImages/key.png>)
 ```
 ```
-![Inventory: Key 2](DocImages/key2>)
+![Inventory: Key 2](DocImages/key2.png>)
 ```
 ```
-![Inventory: Key 3](DocImages/key3>)
+![Inventory: Key 3](DocImages/key3.png>)
 ```
 ```
-![Inventory: Key Door](DocImages/keydoor>)
+![Inventory: Key Door](DocImages/keydoor.png>)
 ```
 
 ### 2.6. Moving Platforms
@@ -175,7 +175,7 @@ Keys are rewarded after overcoming a series of enemies/obstacles. They are rewar
 Moving platforms are introduced after overcoming a series of still platforms in the first stage of the level. These challenge a player's jump timing to control a player's pacing in jumping.
 
 ```
-![Obstacle: Moving Platforms](DocImages/moving>)
+![Obstacle: Moving Platforms](DocImages/moving.png>)
 ```
 
 ### 2.7. Passthrough Platforms
@@ -183,7 +183,7 @@ Moving platforms are introduced after overcoming a series of still platforms in 
 To not overcomplicate the first stage with too many forms of obstacles, passthrough platforms are first encountered in the second stage of the level where they further challenge a player's skill in mobility.
 
 ```
-![Obstacle: Passthrough Platforms](DocImages/passthrough>)
+![Obstacle: Passthrough Platforms](DocImages/passthrough.png>)
 ```
 
 ### 2.8. Spikes
@@ -191,7 +191,7 @@ To not overcomplicate the first stage with too many forms of obstacles, passthro
 Spikes greatly increase difficulty of the level by limiting the player's movement encourage to test the limits of their movements by controlling their movements whilst airborne with intentions on aiming their character to land on a safe landing point, avoiding the consequence of colliding with the spike and losing a health point. An example of it hindering movement would be in the lower region of stage 2 where a player must conduct a short jump (quickly releasing the spacebar after jumping) to jump over the acid onto a safe landing spot to retrieve a key.
 
 ```
-![Obstacle: Spikes](DocImages/spikes>)
+![Obstacle: Spikes](DocImages/spikes.png>)
 ```
 
 ### 2.9. Spitters
@@ -199,7 +199,7 @@ Spikes greatly increase difficulty of the level by limiting the player's movemen
 Spitters are introduced deliberately after chompers as they add a new complexity of being able to shoot projectiles. Players are forced to learn their mechanics as they are unable to attack them in the lower region of the level where they have no opportunity to attack them and are forced to be prone to their attacks.
 
 ```
-![Enemy: Spitters](DocImages/spitters>)
+![Enemy: Spitters](DocImages/spitters.png>)
 ```
 
 ### 2.10. Weapon Pickup (Gun)
@@ -207,7 +207,7 @@ Spitters are introduced deliberately after chompers as they add a new complexity
 Introduced fairly shortly after receiving the staff, the gun provides an option for the player to use ranged attacks if they wish to do so. The level encourages any preferred form of combat however will prove to be easier in choosing the gun in this stage as there are many spitters which require the player to space themselves a certain distance if they do not wish to take the risk of losing health points by getting too close to their range of attacks and collision hitbox.
 
 ```
-![Weapon Pickup: Gun](DocImages/gun>)
+![Weapon Pickup: Gun](DocImages/gun.png>)
 ```
 
 ### 2.11. Weapon Pickup (Staff)
@@ -215,7 +215,7 @@ Introduced fairly shortly after receiving the staff, the gun provides an option 
 The staff is provided at the start of the second stage of the game to introduce the idea of attacking enemies. The player is forced into a situation against chompers where they are given enough space to distance themselves properly and learn of the features of the staff and how to successfully defeat an enemy.
 
 ```
-![Weapon Pickup: Staff](DocImages/staff>)
+![Weapon Pickup: Staff](DocImages/staff.png>)
 ```
 
 ## 3. Spatiotemporal Design
@@ -294,7 +294,7 @@ The staff is provided at the start of the second stage of the game to introduce 
 ```
 ### 3.4.	Level Map – Section 3
 
-## 4. Iterative Design (~400 words)
+## 4. Iterative Design
 
 The design of the level was first aimed to introduce different player mechanics in different stages and bring them together for the final stage.
 
